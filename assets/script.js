@@ -1,5 +1,6 @@
 const tl = gsap.timeline({defaults: { ease: "power1.out" } }); //koliko dugo želimo da se svaka animacija dogodi
 
+tl.to(".intro .piza img", { height: "45%",width: "45%", duration: 4});
 tl.to(".intro .piza img", { y: "50%",height: "100%",width: "100%", duration: 4});
 tl.to(".slide", { y: "-150%", duration: 2.5, delay: 0.5});
 tl.to(".intro .piza img", { y: "-250%",height: "10%",width: "10%", duration: 1});
