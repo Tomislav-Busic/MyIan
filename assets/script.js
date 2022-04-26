@@ -54,12 +54,12 @@ $(document).ready(function(){
     //promjena teksta
     $('#btn1').click(function(){
         $('#naslov').html("Možete naručiti za van ili s dostavom | Sesvete");
-        $('#tekst').html("Jeste li za društvenu večer uz hrvatsku hranu u našem odličnom restoranu? Želimo vam ljubaznu dobrodošlicu u naš restoran Pizzeria MyIan. Uživajte u slasnim jelima i jedinstvenom ambijentu u našem lokalu. Provedite večer u našem prelijepom, idiličnom vanjskom ambijentu. Kada zahladi, možete se premjestiti na grijani dio terase i nastaviti uživati. Bez obzira na vrijeme – naše klimatizirane prostorije u svako vrijeme su ugodne temperature.");
+        $('#tekst').html("Jeste li za društvenu večer uz hrvatsku hranu u našem odličnom restoranu? Želimo vam ljubaznu dobrodošlicu u naš restoran Pizzeria My Ian. Uživajte u slasnim jelima i jedinstvenom ambijentu u našem lokalu. Provedite večer u našem prelijepom, idiličnom vanjskom ambijentu. Kada zahladi, možete se premjestiti na grijani dio terase i nastaviti uživati. Bez obzira na vrijeme – naše prostorije u svako vrijeme su ugodne temperature.");
     });
 
     $('#btn2').click(function(){
         $('#naslov').html("Top restoran s brunchom");
-        $('#tekst').html("Hrvatska kuhinja oduševit će vas velikom ponudom. Čak i za naše najzahtjevnije goste imamo velik broj delicija iz naše ukusne brze hrane i naše odlične gurmanske hrane. Naša delikatna čokolada, naše voće sigurno će vas oduševiti između obroka ili kao desert. Dođite na doručak, na brunch, na ručak ili na večeru kod nas! Nudimo vam i gratis pristup WiFi-ju kako biste tijekom boravka kod nas mogli surfati na internetu. Tijekom vašeg posjeta, djeca imaju mogućnost provesti lijepo vrijeme u kutku za igranje. Imamo odvojen dio u koji se pušači mogu diskretno skriti.");
+        $('#tekst').html("Hrvatska kuhinja oduševit će vas velikom ponudom. Čak i za naše najzahtjevnije goste imamo velik broj delicija iz naše ukusne brze hrane i naše odlične gurmanske hrane. Širok raspon pića i kave. Dođite na doručak, na brunch, na ručak ili na večeru kod nas! Nudimo vam i gratis pristup WiFi-ju kako biste tijekom boravka kod nas mogli surfati na internetu. Tijekom vašeg posjeta, djeca imaju mogućnost provesti lijepo vrijeme u kutku za igranje. Imamo odvojen dio u koji se pušači mogu diskretno skriti.");
     });
 
     $('#btn3').click(function(){
